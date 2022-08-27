@@ -2,5 +2,8 @@
 "notify" : 0,
 "title" : "Vet Eye",
 "msg" : "عيد سعيد, كل عام وأنتم بخير",
-"ad" : 1
+"ad" : 1,
+"filter" : 1,
+"id" : 10,
+"edit" : "Vet Eye",
 }
