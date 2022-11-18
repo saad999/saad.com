@@ -1,10 +1,10 @@
 {
 "notify" : 1,
 "title" : "Vet Eye",
-"msg" : ""The major stumbling block for neophytic clinicians remains the integration of information and signs into a diagnosis or differential diagnosis. The inexperienced
+"msg" : """The major stumbling block for neophytic clinicians remains the integration of information and signs into a diagnosis or differential diagnosis. The inexperienced
 clinician often focuses so hard on a single sign or a piece of historical data that the clinician "loses the forest for the trees." These same "trainees" in medicine are
 frustrated when a cow has two or more concurrent diseases. In such situations, the signs fail to add up to a textbook description of either disease, and the examiner becomes frustrated. A cow with severe metritis and a left abomasal displacement (LDA), for example, may have fever and complete anorexia. Such signs are not typical for LDA, so the inexperienced clinician may want to rule out LDA. The clinician must recognize that concurrent disease may additively or exponentially affect the clinical signs present. The clinical signs may cancel each other out, as may be seen in a recumbent hypocalcemic (subnormal temperature) cow affected with coliform mastitis (fever) that has a normal body temperature at the time of clinical examination.
-"",
+""",
 "ad" : 1,
 "filter" : 0,
 "id" : 0,
