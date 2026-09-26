@@ -1,5 +1,5 @@
 {
-"showtrans" : 1,
+"showtrans" : 0,
 "showtransttl":"HH Available!!",
 "showtransmsg":"Good — passphrase comes from BuildConfig (build-time constant, not committed in source), so that's handled reasonably. Let me look at logging (Log.d/e with sensitive data), exported components hints, and the SQL string-concat search path more closely, plus check exception handler and Firebase Crashlytics use.",
 "unitad" : 1
